@@ -1,5 +1,7 @@
 # PENDEL! - Interactive Football Games Platform
 
+link to the site: https://pendel-ifg.netlify.app/
+
 ## Overview
 
 Pendel is a full-stack web application that brings together a variety of interactive football games, such as **Fantasy League** and **Guessing Contest**, into one cohesive platform. It leverages unique plugins like personalized leagues and estimated lineups to enhance the user experience. Pendel not only offers engaging gameplay but also serves as a social platform, connecting football fans and fostering a community where users can share their thoughts, ideas, and opinions.
